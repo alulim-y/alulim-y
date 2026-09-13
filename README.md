@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=alulim-y&show_icons=true&theme=radical" />
+
+
 <!--
 **alulim-y/alulim-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
