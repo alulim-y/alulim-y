@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=alulim-y&show_icons=true&theme=radical" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alulim-y)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
