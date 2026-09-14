@@ -3,6 +3,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alulim-y&theme=tokyonight)
 
+**[![GitHub Streak](https://streak-stats.demolab.com?user=alulim-y&theme=tokyonight)](https://git.io/streak-stats)**
+
 <!--
 **alulim-y/alulim-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
