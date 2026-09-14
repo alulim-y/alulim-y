@@ -1,11 +1,4 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alulim-y&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alulim-y&theme=tokyonight)
-
-**[![GitHub Streak](https://streak-stats.demolab.com?user=alulim-y&theme=tokyonight)](https://git.io/streak-stats)**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alulim-y&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,docker,git,linux)](https://skillicons.dev)
 
