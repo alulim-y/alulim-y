@@ -5,6 +5,8 @@
 
 **[![GitHub Streak](https://streak-stats.demolab.com?user=alulim-y&theme=tokyonight)](https://git.io/streak-stats)**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=alulim-y&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **alulim-y/alulim-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
