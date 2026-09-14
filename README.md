@@ -7,6 +7,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alulim-y&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,docker,git,linux)](https://skillicons.dev)
+
 <!--
 **alulim-y/alulim-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
